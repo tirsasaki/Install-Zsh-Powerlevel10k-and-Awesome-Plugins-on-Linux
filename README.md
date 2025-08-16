@@ -1,6 +1,3 @@
-# Install-Zsh-Powerlevel10k-and-Awesome-Plugins-on-Linux
-
----
 
 # 🚀 How to Install Zsh, Powerlevel10k, and Awesome Plugins on Linux
 
